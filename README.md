@@ -6,9 +6,9 @@ SegFormer-B5 fine-tuned for semantic segmentation of food images on [FoodSeg103]
 
 | Metric | Value |
 |---|---|
-| mIoU | 0.413 |
-| Pixel accuracy | 0.808 |
-| Rice IoU | 0.749 |
+| mIoU | 0.415 |
+| Pixel accuracy | 0.805 |
+| Rice IoU | 0.739 |
 
 Common classes (rice, bread, soup, large vegetables) segment well. A tail of rare or visually similar classes scores near zero IoU, for example pudding, peanut, hamburg, salad, king oyster mushroom, oyster mushroom, bamboo shoots and kelp.
 
